@@ -5,6 +5,7 @@
 It is a way to simply use characters and symbols that you use everyday, to emphasize and distinguish certain content you want displayed on your website.  There is no need to be able to read or write code.  
 
 Examples of markdown that can be used within your GitHub repository:
+*  Header
 
 
 
