@@ -14,4 +14,8 @@
 
 1. _Success of Others_ -  Seeing others succeed can be very benficial.  Let it push you to be better and also to show you where you need to improve.  
 
-My name is Kent Sheats.  Here is a link to my [GitHub page.](https://github.com/KentFletcher)
+My name is Kent Sheats.  
+Things I like:
+*hiking
+
+Here is a link to my [GitHub page.](https://github.com/KentFletcher)
