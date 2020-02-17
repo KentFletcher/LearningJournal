@@ -6,25 +6,25 @@
 Markdown is a writing format, while HTML is a publishing format.
 
 Examples of markdown that can be used within your GitHub repository:
-*Headers- #
-*Use to Emphasize with:
-  *Italics- *word*
-  *Bold- **bold**
-*Lists
-  *Unordered List-  
-  *Ordered List
-*Images
-*Links
-*Block Quotes 
-*Code
-*Task Lists
-*Tables
-*SHA references
-*Issue reference with in a repository 
-*Username@ mentions
-*Automatic linking for URL’s
-*Strikethrough
-*Emojis
+* Headers- #
+* Use to Emphasize with:
+  * Italics- *word*
+  * Bold- **bold**
+* Lists
+  * Unordered List-  
+  * Ordered List
+* Images
+* Links
+* Block Quotes 
+* Code
+* Task Lists
+* Tables
+* SHA references
+* Issue reference with in a repository 
+* Username@ mentions
+* Automatic linking for URL’s
+* Strikethrough
+* Emojis
 
 
 Git hub pages :
