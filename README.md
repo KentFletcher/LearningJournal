@@ -6,7 +6,7 @@
 
 * _Challenges_ -  Doing things that are difficult for you will push you out of your comfort zone and cause you to ask questions and seek information.  
 
-* _Effort_ -  > No Pain,No Gain. Is the best way to describe why effort is important.  If you do not allow youself to struggle then you will not move forward, your will simply stay where you are.
+* _Effort_ - "No Pain,No Gain". Is the best way to describe why effort is important.  If you do not allow youself to struggle then you will not move forward, your will simply stay where you are.
 
 * _Obstacles_ - These are things around you that want your attention. 
 
