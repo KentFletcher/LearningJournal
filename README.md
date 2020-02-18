@@ -2,7 +2,7 @@
 
  *Growth Mindset* is essentially thinking to yourself that you do not know something "yet".  It is a way of thinking where there are endless possiblities and where you have the ability to achieve goals that you set.  The only thing that would hold you back from further learning would be quitting and not pursuing further knowledge. 
 
-# **Ways to utilize the growth mindset to improve yourself and yourself:**
+# **Ways to utilize the growth mindset to improve yourself:**
 
 1. _Challenges_ -  Doing things that are difficult for you will push you out of your comfort zone and cause you to ask questions and seek information.  
 
