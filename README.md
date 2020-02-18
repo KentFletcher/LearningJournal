@@ -6,14 +6,15 @@
 
 1. Do things that are difficult for you, it will push you out of your comfort zone and cause you to ask questions and seek information.  
 
-1. "No Pain,No Gain". If you do not allow yourself to struggle then you will not move forward, your will simply stay where you are.
+1. "No Pain, No Gain." If you do not allow yourself to struggle then you will not move forward, your will simply stay where you are.
 
 1. Listen to others criticisms about you.  Hearing your weaksposts from others can be very difficult, but seeking this out and internalizing it will allow you to be able to take steps to improve yourself.
 
 
 
-My name is Kent Sheats.  
-Things I like:
+My name is Kent Sheats.
+
+__Things I like:__
 *The outdoors, some of my favorite activities are:
   *Hiking
   *Snowboarding
