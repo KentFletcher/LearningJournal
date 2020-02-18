@@ -9,9 +9,10 @@ Examples of markdown that can be used within your GitHub repository:
 * Headers- #
 * Use to Emphasize with:
   * Italics- \*this would be italic* or \_this would be italic_
-  * Bold- \**this would be bold** or \__this would be bold__
+  * Bold- \*\*this would be bold\*\* or \_\_this would be bold\_\_
 * Lists
-  * Unordered List-  
+  * Unordered List- can use \* list  will show * list
+  \* can also use \- and  
   * Ordered List-
 * Images
 * Links
