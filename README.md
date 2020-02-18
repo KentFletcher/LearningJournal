@@ -15,11 +15,11 @@
 My name is Kent Sheats.
 
 __Things I like:__
-*The outdoors, some of my favorite activities are:
-  *Hiking
-  *Snowboarding
-  *Kayaking
-  *Camping
-*I am also an avid homebrewer, who enjoys making my own tasty beers.
+* The outdoors, some of my favorite activities are:
+  * Hiking
+  * Snowboarding
+  * Kayaking
+  * Camping
+* I am also an avid homebrewer, who enjoys making my own tasty beers.
 
 Here is a link to my [GitHub page.](https://github.com/KentFletcher)
