@@ -32,4 +32,3 @@ Turn repositories into a website easily and quickly.  No need to write or read H
 
 The Markdown characters can be referenced quickly and easily at: [basic-writing-and-formatting-syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)!
 
-
