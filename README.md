@@ -1,6 +1,6 @@
 # **Growth Mindset**
 
- *Growth Mindset* is essentially thinking to yourself that you do not know something "yet".  It is a way of thinking where there are endless possiblities and where you have the ability to achieve goals that you set.  The only thing that would hold you back from further learning would be quitting and not pursuing further knowledge. 
+ *Growth Mindset* is essentially thinking to yourself that you do not know something "yet".  It is a way of thinking that there are endless possiblities and where you have the ability to achieve goals that you set.  The only thing that would hold you back from further learning would be quitting and not pursuing further knowledge. 
 
 # **Ways to utilize the growth mindset to improve yourself:**
 
@@ -16,6 +16,11 @@
 
 My name is Kent Sheats.  
 Things I like:
-*hiking
+*The outdoors, some of my favorite activities are:
+  *Hiking
+  *Snowboarding
+  *Kayaking
+  *Camping
+*I am also an avid homebrewer, who enjoys making my own tasty beers.
 
 Here is a link to my [GitHub page.](https://github.com/KentFletcher)
