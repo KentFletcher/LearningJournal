@@ -5,5 +5,5 @@ is a system that allows you to revisit different versions of a file, or set of, 
   * Centralized Version Control (CVCS) is a single server storing all changes and file versions, allowing for a team of developers to collaborate on single or sets of files.  Streamlining the collaborating process and allowed each member to know what each team members activities, also allows administrators for easier task of divying out privileges.
   * Distributed Version Control (DVCS) mirrored repositories, copies of the files as data backup in the case of corruption or catastrophic loss.  Enable the use of various simultaneous workflows.
   
- ## What is Git?
- It is a DVCS that stores data file made up of snapshots.
+## What is Git?
+It is a DVCS that stores data file made up of snapshots.  Each time you save a changed version, it is called a *commit*, Git take a snapshot of the file and stores it a reference to it.  
