@@ -7,8 +7,25 @@ is a system that allows you to revisit different versions of a file, or set of, 
   
 # What is Git?
 Git is software or version control while Git Hub is where you keep files.
-It is a DVCS that stores data file made up of snapshots.  Each time you save a changed version, it is called a *commit*, Git take a snapshot of the file and stores it a reference to it.  Commit is Gits version of "Save As...", but each save is just showing what changes were made. Each commit (snapshot) has a label that points to it. ***HEAD*** = The labek meaning "You are here".  assign messages as to why you make changes.
+It is a DVCS that stores data file made up of snapshots.  Each time you save a changed version, it is called a *commit*, Git take a snapshot of the file and stores it a reference to it.  Commit is Gits version of "Save As...", but each save is just showing what changes were made. Each commit (snapshot) has a label that points to it. ***HEAD*** = The label meaning "You are here".  assign messages as to why you make changes.
 * Ability to view, apply, and remove those changes.
 * History of those changes.
+* Greatly minimizes the irrevesible damage to files, such as an accidental loss.  
+
+## Files within Git reside in 3 main states:
+* Commited- Data is securely stored in a local database
+* Modified- File has been changed but not commited
+* Staged- Flagged a file's  
+![][https://blog.udemy.com/wp-content/uploads/2015/08/image066.png]
+
+# Getting Started
+* Download Git- should always make sure it is up to date. 3 ways to install.
+1. as a package
+2. via another installer
+3. Download and compile the source code
+
+* Easiest way on a mac is throught the *terminal*
+* Git website can be used
+* GitHub is another source
 
 
