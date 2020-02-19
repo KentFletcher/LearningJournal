@@ -1,4 +1,4 @@
-# HTML
+# Understanding HTML
 ## Chapter 18 Process and Design
   * Who is the site for?-  Need to have a target audience.  - Need to understand who that is. Are you targeting individuals of companies?-
   * Why peole will visit your website.  What aer their key **motivations** and specific **goals**.
@@ -25,4 +25,28 @@
   * Interactive
   * Consistent
 
-### Chapter 17- Note how these elements are common
+# Chapter 17- Note how these elements are common to most wepages
+HTML5 allows you set up your web page easier, by eliminating the need for so may <div>.  Structure is as follows:
+![Example of HTML](https://lh3.googleusercontent.com/proxy/EV7jlGdSLrRk6imDE4QpUFzMCdar_V3Zic6n41QsbIaPH5s8z9QFxj6QXjhGS6fDql1UjzlbglnxuVPIBB37PxkksCfxUSuh2Z6LEu0Rc6I)
+* **Headers and Footers** <header><footer>-  Header can be used various ways, but commonly it is used to hold the title, some navigation, and possibly a logo.  The footer often share info about the site (author, :copyright: date, privacy policies, etc.), it may also contain contact info or the sites connected social media, and also may have links to move around the page.
+* **Navigation** <nav>- This allows you to block together common themed links to improtant information.  Generally you will see it as a unordered list <ul>, with <a href=""> with in the list items <li>
+* **Articles** <article>-  a container for info within a site that can stand alone as an independent piece of content.  Ideal for things like articles and blogs, which would sit within thier own <article>.  Can nest articles within articles.
+* **Asides** <aside>- If used within an article, can contain info that is related to or supports that article.  If it is outside of an <article>, it is a container for content of that entire page.
+* **Sections** <section>- groups relaed content together.  has a class attribute.
+* **Heading Group** <hgroup>-  is used to group together a set of 1 or more <h1> elements.
+* **Figures** <figure> <figcaption>- used to contain any content that is referenced from the main flow of an article.  Can be used for images, videos, graphs, diagrams, code samples, or just text that supports the main body.  The <figcaption> should be a description of the content of the <figure>.
+* **Sectioning Elements** <div>-  use when there is not specific sectioning element.
+* **Linking around block-level elements** <a>- this allows you block together child elements, and turn the entire content into a link.
+
+# Chapter 8- Extra Markup
+* Doctypes
+* Comments in HTML
+* ID Attributes
+* Class Attributes
+* Block Elements
+* Inline Elements
+* Grouping Text and Elements in a Box
+* Grouping Text and Elements inlline
+* Iframes
+* Information About Your Pages
+* Escape Characters
