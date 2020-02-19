@@ -1,9 +1,9 @@
 
 # Table of Contents:
-- [Growth Mindset](https://github.com/KentFletcher/learning-journal/growthmindset)
+- [Growth Mindset](https://kentfletcher.github.io/learning-journal/growth%20mindset
 - [Markdown](https://kentfletcher.github.io/learning-journal/markdown)
-- [coders computer cheatsheet](https://github.com/KentFletcher/learning-journal/coderscomputercheatsheet)
-- [Undersatnding Git](https://kentfletcher.github.io/learning-journal/understandinggit)
+- [coders computer cheatsheet](https://kentfletcher.github.io/learning-journal/coders%20computer%20cheatsheet)
+- [Undersatnding Git](https://kentfletcher.github.io/learning-journal/understanding%20git)
 
 Kent Sheats
 
