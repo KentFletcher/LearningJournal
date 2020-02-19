@@ -16,7 +16,7 @@ It is a DVCS that stores data file made up of snapshots.  Each time you save a c
 * Commited- Data is securely stored in a local database
 * Modified- File has been changed but not commited
 * Staged- Flagged a file's  
-![][https://blog.udemy.com/wp-content/uploads/2015/08/image066.png]
+![ Chart](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
 # Getting Started
 * Download Git- should always make sure it is up to date. 3 ways to install.
