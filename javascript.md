@@ -1,4 +1,4 @@
-#JAVASCRIPT
+# JAVASCRIPT
 * JAVASCRIPT or \(JS) is the behavior layer, or interactive layer of a website.  It include buttons, dropdowns, media players, etc.
  It is added last and enhances the usbility of the page or the experience of interacting with the site.  The site can work even if the JS does not, where as  without HTML \(or the content) and CSS \(the presentation layer), your  site would not function.  The interaction between these 3 is called progressive *enhancement*.  
 * **Script**- A series of instructions
@@ -27,4 +27,3 @@
   1. they are case sensitive
   1. need to describe the kind of info that is stores.
   1. if it is more than one word, use a capital letter for the start of every word
-  
