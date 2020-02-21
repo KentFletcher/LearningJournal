@@ -1,5 +1,5 @@
 # JAVASCRIPT
-* JAVASCRIPT or \(JS) is the behavior layer, or interactive layer of a website.  It include buttons, dropdowns, media players, etc.
+* JAVASCRIPT or \(JS) is the behavior layer, or interactive layer of a  website.  It include buttons, dropdowns, media players, etc.
  It is added last and enhances the usbility of the page or the experience of interacting with the site.  The site can work even if the JS does not, where as  without HTML \(or the content) and CSS \(the presentation layer), your  site would not function.  The interaction between these 3 is called progressive *enhancement*.  
 * **Script**- A series of instructions
 * We created a conditional script, where if it was a certain time of the day it would greet you differently.  You place a link to your\.js file within your HTML code inside of a \<script> tag where you would like the interaction to take place. and you write a small line at the bottom of your JS.
@@ -26,4 +26,5 @@
   1. cannot use keywords of reserved words.
   1. they are case sensitive
   1. need to describe the kind of info that is stores.
-  1. if it is more than one word, use a capital letter for the start of every word
+  1. if it is more than one word, use a capital letter for the start of every word.
+
