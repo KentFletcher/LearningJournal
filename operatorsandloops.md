@@ -3,7 +3,7 @@
 
 * Logical Operators- Allow you to compare the results of more than one comparison operator.
   * \&& - Logical And- Tests more than one condition
-  * \|| - Logical Or- Tests at least one condition
+  * \|\| - Logical Or- Tests at least one condition
   * \! -  Logical Not- Returns true or false
 
 * Loops- check a condition.  If it returns true, a code block will run.  Then the condition will be checked agin and if it still returns true, the code block will run again. It repeats until the condition returns false.
